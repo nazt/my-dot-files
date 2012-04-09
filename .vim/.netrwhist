@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/NAzT/Projects/coffee/ex3.coffee'
+let g:netrw_dirhist_2='/Applications/XAMPP/xamppfiles/htdocs/spair/drupal-7.8'
+let g:netrw_dirhist_3='/Applications/XAMPP/xamppfiles/htdocs/spair/drupal-7.8/sites'
+let g:netrw_dirhist_4='/Applications/XAMPP/xamppfiles/htdocs/spair/drupal-7.8/sites/default'
